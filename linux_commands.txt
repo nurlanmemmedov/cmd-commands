@@ -1,0 +1,4 @@
+cd - change directory
+ls- list of apps
+pwd - print working directory
+mkdir - make directory
