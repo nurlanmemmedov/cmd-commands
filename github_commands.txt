@@ -4,4 +4,3 @@ git commit -m "" - commits the changes with a message
 git status - shows the status of changes of files
 git add remote origin - adds the origin of the repo to the project
 git push -u origin main - pushs the changes to repository
-git clone - clones the repository to user's local machine
