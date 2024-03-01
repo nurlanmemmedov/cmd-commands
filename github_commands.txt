@@ -1,10 +1,10 @@
-git commands:
-git init - Initializes new git repository
-git add - Adds files and folders to stage
-git commit -m "" - Commits the changes with a message
-git status - Shows the status of changes of files
-git add remote origin - Adds the origin of the repo to the project
-git push -u origin main - Pushes the changes to repository
-git log - Prints commit history
-git revert - Reverts specific commit with new one
-git reset --soft HEAD~1 - Reverts latest commit
+github commands:
+git init : initializes git repository
+git add - adds files and folders to stage
+git commit -m "" - commits the changes with a message
+git status - shows the status of changes of files
+git add remote origin - adds the origin of the repo to the project
+git push -u origin main - pushs the changes to repository
+git log - prints commit history
+git revert - reverts specific commit with new one
+git reset --soft HEAD~1 - reverts latest commit
